@@ -1,7 +1,7 @@
 import os, json, re
 
 PROJECTS_DIR = "clusters"
-OUTPUT_FILE  = "visualizer/data.js"
+OUTPUT_FILE  = "data.js"
 
 def parse_frontmatter(content):
     match = re.match(r'^---\s*\n(.*?)\n---', content, re.DOTALL)

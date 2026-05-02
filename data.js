@@ -21,16 +21,16 @@ window.INNOVATION_DATA = [
       {
         "name": "HELIOPLANT® Tiefenbachgletscher Sölden",
         "org": "Helioplant GmbH (Mötz bei Innsbruck)",
-        "subtitle": "Bifaziale baumförmige PV-Anlage auf 2.850–3.000 m – 6,3 MW für drei Skigebiete",
-        "beschreibung": "Helioplant, ein Start-up aus Mötz bei Innsbruck, hat ein patentiertes kreuzförmiges Trägersystem für bifaziale PV-Module entwickelt, das speziell für extreme alpine Bedingungen ausgelegt ist. Das baumförmige Design bleibt durch Luftverwirbelung schneefrei und bildet einen natürlichen Schneekrater, der Licht auf die Modulrückseite reflektiert (Albedo-Effekt) – Ergebnis: bis zu 40 % höherer Energieertrag als bei Tal-Anlagen gleicher Leistung. Das Projekt wird vom Klima- und Energiefonds im Programm „Mustersanierung PV\" gefördert (Fördernummer KC430099).\n\n2023 startete das Pilotprojekt am Tiefenbachgletscher in Sölden auf 2.850 m mit 12 Strukturen (7,2 kWp je Element), das einen Skilift eine gesamte Saison lang versorgte. Nach diesem Erfolg entsteht nun in Sölden ein 6,3-MW-Kraftwerk mit rund 800 HELIOPLANT®-Elementen zwischen 2.850 und 3.000 m Höhe (650 Elemente Typ 1, 100 Elemente Typ 2; insgesamt 11.900 bifaziale Module à 500 Wp). Die Anlage soll rund ein Drittel des jährlichen Strombedarfs der drei Skigebiete decken – Betrieb der Lifte, Seilbahnen, Gastronomie und Beschneiung.",
-        "zukunft": "Fertigstellung der 6,3-MW-Vollanlage (800 Elemente) für zweites Halbjahr 2026 geplant; danach Ausbau am Pitztaler Gletscher. Helioplant sieht ein weltweites Potenzial in rund 6.000 Skigebieten.",
+        "subtitle": "Bifaziale baumförmige PV-Anlage auf 2.850–3.000 m – 6,3 MW für alpine Regionen",
+        "beschreibung": "Das Projekt Helioplant am Tiefenbachgletscher in Sölden realisiert ein alpines Photovoltaik-Kraftwerk mit einer Leistung von 6,3 Megawatt. Das Vorhaben nutzt ein patentiertes kreuzförmiges Trägersystem für bifaziale PV-Module, das speziell für extreme Bedingungen in Höhenlagen zwischen 2.850 und 3.000 Metern entwickelt wurde. Die baumförmige Konstruktion verhindert durch natürliche Luftverwirbelung die Schneeansammlung auf den Modulen und nutzt den Albedo-Effekt des reflektierenden Schnees für einen bis zu 40 Prozent höheren Energieertrag im Vergleich zu Tal-Anlagen.  \n\nDas Projekt wird durch Partner wie SolarEdge Technologies und PVolution unterstützt und umfasst die Installation von rund 800 Elementen mit insgesamt 11.900 Modulen. Die Anlage deckt rund ein Drittel des jährlichen Strombedarfs von drei Skigebieten ab, einschließlich des Betriebs von Seilbahnen, Gastronomie und Beschneiungsanlagen. Es dient als globaler Blueprint für die Erschließung solarer Potenziale in rund 6.000 Skigebieten weltweit und demonstriert die Vereinbarkeit von Tourismus-Infrastruktur und nachhaltiger Energieerzeugung",
+        "zukunft": "Fertigstellung der 6,3-MW-Vollanlage im zweiten Halbjahr 2026. Das Projekt dient als globaler Benchmark für EXPO 2027, um PV-Potenziale in extremen Höhenlagen und Skigebieten weltweit zu erschließen.",
         "coordinator": {
           "name": "Helioplant GmbH",
           "url": "https://helioplant.energy/en/"
         },
         "partners": [
           {
-            "name": "Bergbahnen Sölden (Ötztal)",
+            "name": "Bergbahnen Sölden",
             "url": "https://www.soelden.com/"
           },
           {
@@ -38,26 +38,18 @@ window.INNOVATION_DATA = [
             "url": "https://www.solaredge.com/"
           },
           {
-            "name": "PVolution GmbH (Module)",
+            "name": "PVolution GmbH",
             "url": "https://pvolution.com/"
           }
         ],
         "quellen": [
           {
-            "label": "Klima- und Energiefonds – Projektseite HELIOPLANT® Tiefenbach (Fördernummer KC430099)",
+            "label": "Klima- und Energiefonds – Projektseite HELIOPLANT®",
             "url": "https://www.klimafonds.gv.at/projekt/helioplant-photovoltaikanlagetiefenbachgletscher-soelden/"
-          },
-          {
-            "label": "Klima- und Energiefonds – Zwischenbericht (PDF)",
-            "url": "https://www.klimafonds.gv.at/wp-content/uploads/2024/10/KC430099_Muster-PV_erster-Zwischenbericht_Oetztaler-Gletscherbahnen.pdf"
           },
           {
             "label": "pv magazine – Solaredge & Helioplant 6,3 MW Sölden (Jan. 2026)",
             "url": "https://www.pv-magazine.de/2026/01/28/solaredge-und-helioplant-realisieren-alpines-photovoltaik-kraftwerk-mit-63-megawatt-in-oesterreich/"
-          },
-          {
-            "label": "Tirol ORF – Innovative Sonnenenergie auf Gletscher (Jan. 2024)",
-            "url": "https://tirol.orf.at/stories/3241312/"
           }
         ],
         "image_url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=800&q=80",
@@ -68,76 +60,18 @@ window.INNOVATION_DATA = [
           7,
           7,
           8,
-          8,
-          7
-        ]
-      },
-      {
-        "name": "CaCTUS – Carbon Capture, Transformation, Utilization and Storage Austria",
-        "org": "Montanuniversität Leoben – Lehrstuhl für Verfahrenstechnik des industriellen Umweltschutzes (VTiU)",
-        "subtitle": "Wissens- und Datenbasis für CCUS zur Erreichung der österreichischen Klimaneutralität 2040",
-        "beschreibung": "CaCTUS (gefördert durch den Klima- und Energiefonds im ACRP-Programm, 14th Call) schließt zentrale Wissenslücken über das realistische Potenzial von CO₂-Abscheidung, -Nutzung und -Speicherung (CCUS) in Österreich. In enger Zusammenarbeit mit Industrie und Ministerien wurden bestehende und zukünftige CO₂-Quellen sowie potenzielle Senken für 2040 und 2050 identifiziert und quantifiziert.\n\nDas Projektkonsortium – Montanuniversität Leoben (Lehrstühle für VTiU, Energieverbundtechnik, Reservoir Engineering, Erdölgeologie), JKU Linz Energieinstitut, denkstatt und GeoSphere Austria – bewertete Source-to-Sink-Routen techno-ökonomisch und rechtlich, um kosteneffiziente Lösungen für Österreichs „hard-to-abate\"-Emissionen in Stahl-, Zement- und Feuerfestindustrie zu identifizieren. Die Ergebnisse wurden in Policy Briefs für Entscheidungsträger zusammengefasst und dem Klimaschutzministerium übergeben.",
-        "zukunft": "Policy Briefs wurden an österreichische Ministerien übergeben; Folgeprojekte zu konkreten Source-to-Sink-Infrastrukturen in Planung. CaCTUS-Ergebnisse fließen direkt in die nationale Klimastrategie und den NEKP ein.",
-        "coordinator": {
-          "name": "Montanuniversität Leoben – VTiU (Prof. Markus Lehner)",
-          "url": "https://www.evt-unileoben.at/de/forschung/flygrid/cactus"
-        },
-        "partners": [
-          {
-            "name": "Energieinstitut an der JKU Linz",
-            "url": "https://energieinstitut-linz.at/en/project/austrias-climate-neutrality-an-in-depth-evaluation-of-the-potential-contribution-of-ccu-and-ccs-for-the-austrian-long-term-climate-goals/"
-          },
-          {
-            "name": "EY denkstatt GmbH",
-            "url": "https://www.denkstatt.at/"
-          },
-          {
-            "name": "GeoSphere Austria",
-            "url": "https://www.geosphere.at/"
-          }
-        ],
-        "quellen": [
-          {
-            "label": "Klima- und Energiefonds – CaCTUS Projektseite (ACRP 14th Call)",
-            "url": "https://www.klimafonds.gv.at/projekt/cactus/"
-          },
-          {
-            "label": "Energieinstitut JKU Linz – CaCTUS Projektseite",
-            "url": "https://energieinstitut-linz.at/en/project/austrias-climate-neutrality-an-in-depth-evaluation-of-the-potential-contribution-of-ccu-and-ccs-for-the-austrian-long-term-climate-goals/"
-          },
-          {
-            "label": "Peer-reviewed: CaCTUS Ergebnisse BHM Monatshefte Springer (2025)",
-            "url": "https://link.springer.com/article/10.1007/s00501-025-01571-y"
-          },
-          {
-            "label": "Peer-reviewed: Methodik Carbon Management Strategies Austria (Int. J. Sustainable Energy, 2024)",
-            "url": "https://pure.unileoben.ac.at/en/publications/a-methodology-for-the-determination-of-future-carbon-management-s/"
-          },
-          {
-            "label": "CaCTUS Stakeholder Workshop Bericht (JKU Linz)",
-            "url": "https://energieinstitut-linz.at/en/cactus-stakeholder-workshop/"
-          }
-        ],
-        "image_url": "https://images.unsplash.com/photo-1518173946687-a4c8892bbd9f?w=800&q=80",
-        "trl": 5,
-        "srl": 6,
-        "axes": [
-          5,
-          6,
-          4,
-          6,
           9,
-          7
+          8
         ]
       },
       {
-        "name": "GeoTief Wien – Tiefengeothermie für klimaneutrale Fernwärme",
-        "org": "Wien Energie GmbH / deeep GmbH (JV Wien Energie & OMV)",
-        "subtitle": "Von der FFG-Erkundung zur Bohranlage: Wiens Weg zur geothermischen Wärmeversorgung",
-        "beschreibung": "Die wissenschaftliche Grundlage für Wiens Geothermie-Offensive schufen zwei FFG-geförderte Forschungsprojekte: GeoTief BASE (Projekt 1823356, 2D-Seismik) und GeoTief EXPLORE (Projekt 2926633, 3D-Seismik), die gemeinsam das Reservoir des „Aderklaaer Konglomerats\" in rund 3.000 m Tiefe unter Wien kartierten und eine Wassertemperatur von rund 100 °C sowie eine Kapazität von 450–700 MWth für ganz Österreich bestätigten.\n\nAuf dieser Wissensgrundlage gründeten Wien Energie und OMV 2023 das Joint Venture „deeep\", das die erste kommerzielle Tiefengeothermie-Anlage Wiens realisiert. Im Dezember 2024 starteten die Bohrarbeiten in Aspern (Wien-Donaustadt): Drei Bohrlöcher werden auf mehr als 3.000 m Tiefe getrieben (Pilot-, Produktions- und Injektionsbohrung). Nach Produktionstests soll die erste 20-MW-Anlage 2028 in Betrieb gehen und klimaneutrale Fernwärme für 20.000 Haushalte liefern.",
-        "zukunft": "Inbetriebnahme der ersten 20-MW-Anlage in Aspern (Donaustadt) für 2028 geplant; Ausbau auf bis zu sieben Anlagen und 200 MW für 200.000 Haushalte bis 2040 – Ziel: klimaneutrale Fernwärme Wien.",
+        "name": "GeoTief Wien – Tiefengeothermie",
+        "org": "deeep GmbH (Joint Venture Wien Energie & OMV)",
+        "subtitle": "Wiens Weg zur geothermischen Wärmeversorgung für die klimaneutrale Metropole",
+        "beschreibung": "Das Projekt GeoTief Wien stellt die wissenschaftliche und operative Grundlage für die Dekarbonisierung des Wiener Fernwärmenetzes dar. Durch das Joint Venture deeep zwischen Wien Energie und OMV wird das Reservoir des Aderklaaer Konglomerats in rund 3.000 Metern Tiefe für die thermische Nutzung erschlossen. Die Technologie nutzt natürliches Thermalwasser mit Temperaturen von etwa 100 Grad Celsius, um CO2-freie Wärme für die Stadt zu gewinnen.  \n\nNach erfolgreichen 3D-seismischen Erkundungen starteten im Dezember 2024 die Bohrarbeiten für die erste 20-Megawatt-Anlage am Standort Aspern. Unterstützt durch Forschungspartner wie GeoSphere Austria und die Geologische Bundesanstalt zielt das Projekt darauf ab, bis zum Jahr 2040 bis zu sieben Anlagen mit einer Gesamtkapazität von 200 Megawatt zu realisieren. Damit können langfristig 200.000 Haushalte mit klimaneutraler Fernwärme versorgt werden, was Wien als Vorreiter in der urbanen Tiefengeothermie positioniert.",
+        "zukunft": "Nach dem Bohrstart im Dezember 2024 werden 2026 die ersten Produktionstests abgeschlossen. Die EXPO 2027 präsentiert die Ergebnisse als skalierbares Modell für die Dekarbonisierung europäischer Fernwärmenetze.",
         "coordinator": {
-          "name": "deeep GmbH – Joint Venture Wien Energie & OMV",
+          "name": "deeep GmbH",
           "url": "https://positionen.wienenergie.at/en/projects/geothermal-plant/"
         },
         "partners": [
@@ -156,24 +90,20 @@ window.INNOVATION_DATA = [
         ],
         "quellen": [
           {
-            "label": "FFG Projektdatenbank – GeoTief EXPLORE 3D (Projekt 2926633)",
-            "url": "https://projekte.ffg.at/projekt/2926633"
-          },
-          {
-            "label": "FFG Projektdatenbank – GeoTief BASE 2D (Projekt 1823356)",
-            "url": "https://projekte.ffg.at/projekt/1823356"
-          },
-          {
             "label": "OMV Pressemitteilung – Bohrstart Dezember 2024",
             "url": "https://www.omv.com/en/media/press-releases/2024/241216-climate-neutral-district-heating-beginning-in-2028-drilling-starts-for-first-deep-geothermal-plant-in-vienna"
           },
           {
-            "label": "Wien Energie – Projektseite Geothermie",
-            "url": "https://positionen.wienenergie.at/en/projects/geothermal-plant/"
+            "label": "Wien Energie –  Geothermie",
+            "url": "https://positionen.wienerstadtwerke.at/positionen/energie/geothermie"
           },
           {
-            "label": "ThinkGeoEnergy – GeoTief Wien Forschungsgeschichte",
-            "url": "https://www.thinkgeoenergy.com/geotief-project-seeking-geothermal-heat-beneath-vienna-austria/"
+            "label": "Wien Energie - Geotief Wien",
+            "url": "https://positionen.wienerstadtwerke.at/projekte/geotief"
+          },
+          {
+            "label": "Geotief Wien",
+            "url": "https://www.geotiefwien.at/"
           }
         ],
         "image_url": "https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?w=800&q=80",
@@ -183,24 +113,24 @@ window.INNOVATION_DATA = [
           7,
           8,
           7,
-          8,
           9,
-          8
+          10,
+          9
         ]
       },
       {
-        "name": "WIVA P&G HyWest – Hydrogen Valley Tirol",
+        "name": "WIVA P&G – Hydrogen Valley Austria",
         "org": "WIVA P&G – Wasserstoffinitiative Vorzeigeregion Austria Power & Gas",
-        "subtitle": "Regionale grüne Wasserstoffwirtschaft von der Erzeugung bis zur Nutzung in Mobilität & Industrie",
-        "beschreibung": "Das Vorzeigeregionprojekt HyWest (gefördert durch FFG/BMK, Projekt-Nr. 4083349) baut in Tirol eine weitgehend autonome regionale Wasserstoffwirtschaft auf. Die Tiroler Landesregierung verabschiedete im Jänner 2020 die „Tirol 2030 Wasserstoffstrategie\" – HyWest ist ihre operative Umsetzung.\n\nDas Projekt deckt alle Schlüsselstellen einer H₂-Wirtschaft ab: TIWAG erzeugt grünen Wasserstoff per Elektrolyse an Wasserkraftstandorten; MPREIS nutzt ihn für die Lebensmittelproduktion und für Brennstoffzellen-LKW auf Transportrouten; HyCentA (TU Graz) entwickelt 700-bar-Betankungsinfrastruktur für Busse und Schwerlastfahrzeuge; AVL untersucht Brennstoffzellenantriebe. Eine virtuelle Datenplattform koordiniert Erzeugung, Logistik und Verbrauch in Echtzeit. Die erzielten Erkenntnisse sind direkte Grundlage für das pan-österreichische „Hydrogen Valley Austria\", das Steiermark, Oberösterreich und Kärnten umfasst.",
-        "zukunft": "Aufbauend auf HyWest bündelt die Initiative „Hydrogen Valley Austria\" (Steiermark, OÖ, Kärnten) 48 Partner und €578 Mio. Investitionen bis 2030 entlang der gesamten H₂-Wertschöpfungskette für industrielle Anwendungen.",
+        "subtitle": "Aufbau einer regionalen grünen Wasserstoffwirtschaft entlang der gesamten Wertschöpfungskette",
+        "beschreibung": "Das Hydrogen Industrial Inland Valley (HI2Valley) ist ein europäisches Leuchtturmprojekt, das die Transformation von regionalen Pilotversuchen in eine großskalierte nationale Wasserstoffwirtschaft realisiert. Mit einem Portfolio von 18 integrierten Projekten deckt das Valley die vollständige Wertschöpfungskette ab. Dies umfasst die regenerative Erzeugung mittels Wasserkraft und Wind durch TIWAG und Verbund, die saisonale Untergrundspeicherung in Porenlagern durch RAG Austria sowie die Dekarbonisierung der Schwerindustrie bei voestalpine.\n\nDas Netzwerk aus 48 Partnern demonstriert technologische Souveränität in verschiedenen Schlüsselbereichen. Im Bereich Mobilität betreibt MPREIS eine der ersten wasserstoffbasierten Lebensmittellogistik-Flotten Europas mit Unterstützung durch die Brennstoffzellen-Expertise von AVL List. Für die Infrastruktur entwickeln HyCentA und die Wolftank Group moderne 700-bar-Betankungssysteme für den Schwerlastverkehr und die Schiene. Durch die Kooperation von Energieversorgern aus allen Bundesländern wie EVN, Wien Energie und illwerke vkw entsteht ein resilienter Inland-Hub, der als Blaupause für Binnenstaaten weltweit dient. Das HI2Valley ist ein wirtschaftliches Ökosystem mit einem Investitionsvolumen von 578 Millionen Euro, das Österreichs Rolle im europäischen Wasserstoff-Netzwerk bis 2030 sichert.",
+        "zukunft": "Das HI2Valley bündelt 18 Einzelprojekte zu einem nationalen Wasserstoff-Backbone. Bis 2030 werden €578 Mio. investiert, um Österreich als zentrale Drehscheibe der europäischen Wasserstoffwirtschaft zu etablieren. Auf der EXPO 2027 wird die gesamte Wertschöpfungskette – von der alpinen Erzeugung bis zur industriellen Nutzung – als interaktives Modell präsentiert.",
         "coordinator": {
-          "name": "WIVA P&G – Wasserstoffinitiative Vorzeigeregion Austria Power & Gas",
+          "name": "WIVA P&G",
           "url": "https://www.wiva.at/"
         },
         "partners": [
           {
-            "name": "HyCentA Research GmbH (TU Graz)",
+            "name": "HyCentA Research GmbH",
             "url": "https://www.hycenta.at/en/"
           },
           {
@@ -214,6 +144,86 @@ window.INNOVATION_DATA = [
           {
             "name": "AVL List GmbH",
             "url": "https://www.avl.com/en/hydrogen"
+          },
+          {
+            "name": "Verbund AG",
+            "url": "https://www.verbund.com/en-at/about-verbund/strategy/hydrogen"
+          },
+          {
+            "name": "voestalpine AG",
+            "url": "https://www.voestalpine.com/group/en/strategy/sustainability/hydrogen/"
+          },
+          {
+            "name": "OMV Aktiengesellschaft",
+            "url": "https://www.omv.com/en/energy-transition/hydrogen"
+          },
+          {
+            "name": "RAG Austria AG",
+            "url": "https://www.rag-austria.at/en/energy-storage/hydrogen"
+          },
+          {
+            "name": "Energie AG Oberösterreich",
+            "url": "https://www.energieag.at/themen/wasserstoff"
+          },
+          {
+            "name": "Salzburg AG",
+            "url": "https://www.salzburg-ag.at/energie/wasserstoff.html"
+          },
+          {
+            "name": "EVN AG",
+            "url": "https://www.evn.at/home/wasserstoff"
+          },
+          {
+            "name": "illwerke vkw AG",
+            "url": "https://www.illwerkevkw.at/wasserstoff.htm"
+          },
+          {
+            "name": "Graz-Köflacher Bahn und Busbetrieb GmbH (GKB)",
+            "url": "https://www.gkb.at/index.php/innovation/wasserstoff"
+          },
+          {
+            "name": "Fronius International GmbH",
+            "url": "https://www.fronius.com/en/solar-energy/installers-partners/products-solutions/hydrogen-solutions"
+          },
+          {
+            "name": "FEN Systems",
+            "url": "https://www.fen-systems.com/"
+          },
+          {
+            "name": "INNIO Jenbacher",
+            "url": "https://www.innio.com/en/jenbacher"
+          },
+          {
+            "name": "Liebherr-Hausgeräte Lienz",
+            "url": "https://www.liebherr.com/en/aut/products/household-appliances/household-appliances.html"
+          },
+          {
+            "name": "Schmid Holding",
+            "url": "https://www.schmid-group.com/"
+          },
+          {
+            "name": "Thöni Industriebetriebe",
+            "url": "https://www.thoeni.com/en/"
+          },
+          {
+            "name": "Wolftank Group",
+            "url": "https://wolftankgroup.com/"
+          },
+          {
+            "name": "Energie Burgenland",
+            "url": "https://www.energieburgenland.at/"
+          },
+          {
+            "name": "Kelag",
+            "url": "https://www.kelag.at/"
+          },
+          {
+            "name": "Messer Austria",
+            "url": "https://www.messer.at/"
+          },
+          {
+            "name": "Wiener Stadtwerke",
+            "url": "https://www.wienerstadtwerke.at"
           }
         ],
         "quellen": [
@@ -222,56 +232,98 @@ window.INNOVATION_DATA = [
             "url": "https://projekte.ffg.at/projekt/4083349"
           },
           {
-            "label": "WIVA P&G Projektwebsite",
-            "url": "https://www.wiva.at/"
-          },
-          {
-            "label": "Peer-reviewed: WIVA P&G HyWest – Austria's first regional green H₂ economy (Energies MDPI, 2023)",
-            "url": "https://www.mdpi.com/1996-1073/16/9/3619"
-          },
-          {
             "label": "Green Tech Valley – Launch Hydrogen Valley Austria (Feb. 2025)",
             "url": "https://www.greentech.at/en/launch-of-the-first-european-hydrogen-valley-for-industry/"
+          },
+          {
+            "label": "HI2 (Hydrogen Industrial Inland Valley) Valley",
+            "url": "https://www.hi2valley.com/"
+          },
+          {
+            "label": "Hydrogen Valley Austria",
+            "url": "https://hydrogen-central.com/hydrogen-valley-in-austria-three-federal-states-in-the-starting-blocks/"
           }
         ],
-        "image_url": "https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?w=800&q=80",
+        "image_url": "https://images.unsplash.com/photo-1548337138-e87d889cc369?w=800&q=80",
         "trl": 7,
-        "srl": 7,
+        "srl": 8,
         "axes": [
           7,
-          7,
-          7,
           8,
+          7,
           9,
-          9
+          10,
+          10
         ]
       },
       {
-        "name": "VERDE IV – Vorarlberger E-Busse für Regionale DEkarbonisierung",
+        "name": "HYDROGRID Insight",
+        "org": "HYDROGRID GmbH (Wien)",
+        "subtitle": "KI-gestützte Echtzeit-Optimierung für Wasserkraftwerke",
+        "beschreibung": "HYDROGRID Insight ist eine cloudbasierte Softwarelösung zur vollautomatischen Steuerung und Optimierung von Wasserkraftwerken in Echtzeit. Die KI-gestützte Technologie analysiert kontinuierlich Wetterdaten, aktuelle Strommarktpreise und technische Restriktionen, um die Produktion zu maximieren. Durch die präzise Vorhersage von Zuflüssen und Marktschwankungen steigert die Software den Energieertrag bestehender Anlagen um bis zu 15 Prozent, ohne dass bauliche Eingriffe in die Natur erforderlich sind.  \n\nIn Partnerschaft mit Versorgern wie EVN, Wien Energie und Statkraft wird das System bereits international eingesetzt. Für die Energiewende übernimmt HYDROGRID eine Schlüsselrolle bei der Integration fluktuierender erneuerbarer Energien in das Stromnetz. Das System wird kontinuierlich um Module zur Vorhersage für die Wasserstoff-Elektrolyse erweitert, was die Sektorkopplung zwischen Wasserkraft und grüner Gasproduktion stärkt und die Effizienz des gesamten Energiesystems erhöht.",
+        "zukunft": "Nach der Marktexpansion in die USA (2026) wird das neue Modul zur Wasserstoff-Elektrolyse-Vorhersage auf der EXPO 2027 als Schlüsseltechnologie für die globale Sektorkopplung vorgestellt.",
+        "coordinator": {
+          "name": "HYDROGRID GmbH",
+          "url": "https://www.hydrogrid.ai/"
+        },
+        "partners": [
+          {
+            "name": "EVN",
+            "url": ""
+          },
+          {
+            "name": "Wien Energie",
+            "url": ""
+          },
+          {
+            "name": "Statkraft",
+            "url": ""
+          }
+        ],
+        "quellen": [
+          {
+            "label": "Green Tech Startups Austria 2026",
+            "url": "https://www.greentech.at/goodies/green-tech-startups-austria/"
+          },
+          {
+            "label": "Hydrogrid AI Newsroom",
+            "url": "https://www.hydrogrid.ai/about-us"
+          }
+        ],
+        "image_url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=800&q=80",
+        "trl": 9,
+        "srl": 8,
+        "axes": [
+          9,
+          8,
+          9,
+          10,
+          9,
+          7
+        ]
+      },
+      {
+        "name": "VERDE IV – E-Bus-Flotte Vorarlberg",
         "org": "illwerke vkw AG",
-        "subtitle": "Vollständige Umstellung des öffentlichen Linienbusbetriebs in Vorarlberg auf Elektroantrieb",
-        "beschreibung": "VERDE IV (FFG Projekt-Nr. 5131531, laufend 2024–2026) ist die vierte und finale Phase der „Vorarlberger Elektrobusse für Regionale DEkarbonisierung\"-Initiative von illwerke vkw. Das Projekt fasst die Umstellung von Linienbussen auf emissionsfreie Fahrzeuge für ganz Vorarlberg im Zeitraum 2023 bis Frühjahr 2026 zusammen und schließt damit an die erfolgreichen Vorgängerprojekte VERDE I–III an.\n\nDie besondere Herausforderung liegt in Vorarlbergs topographischen und verkehrlichen Rahmenbedingungen: steile Bergstrecken, lange Täler und kalte Winter stellen hohe Anforderungen an Batteriereichweite und Ladeinfrastruktur. Das FHV-Forschungsprojekt EBusCharge (Prof. Peter Kepplinger) begleitet das netzdienliche Lademanagement – die E-Busse werden so als dezentrale Flexibilitätspuffer genutzt. Vorarlberg wird mit Abschluss von VERDE IV über die größte E-Bus-Flotte aller österreichischen Bundesländer verfügen.",
-        "zukunft": "Abschluss der Vollumstellung für Frühjahr 2026 geplant; Ergebnisse und Lademanagement-Konzept werden als Vorbild für weitere österreichische Bundesländer aufbereitet. Lünerseewerk II (1.000 MW Pumpspeicher, Baubeginn 2031) sichert die saisonale Speicherkapazität für das Gesamtnetz.",
+        "subtitle": "Vollständige Umstellung des regionalen Linienbusbetriebs auf emissionsfreie Mobilität",
+        "beschreibung": "Mit dem Projekt VERDE IV schließt Vorarlberg die vollständige Umstellung des öffentlichen Linienbusbetriebs auf emissionsfreie Elektroantriebe ab. Das Vorhaben der illwerke vkw umfasst die Implementierung der größten E-Bus-Flotte Österreichs unter anspruchsvollen topographischen Bedingungen. In Zusammenarbeit mit dem Verkehrsverbund Vorarlberg und lokalen Busunternehmen werden Dieselbusse durch moderne Batteriefahrzeuge ersetzt, um den regionalen Personennahverkehr vollständig zu dekarbonisieren.  \n\nEin entscheidender Bestandteil des Projekts ist das intelligente Lademanagement, das in Kooperation mit dem Energy Research Centre der FH Vorarlberg entwickelt wurde. Die E-Busse werden dabei als dezentrale Flexibilitätspuffer genutzt, um das Stromnetz bei Lastspitzen zu stabilisieren. Das Projekt demonstriert, dass emissionsfreie Mobilität auch in alpinen Regionen mit steilen Bergstrecken und kalten Wintern zuverlässig funktioniert und dient als Vorbild für die netzdienliche Integration großer Fahrzeugflotten in ganz Europa.",
+        "zukunft": "Abschluss der landesweiten Vollumstellung im Frühjahr 2026. Das Projekt präsentiert auf der EXPO 2027 das weltweit erste integrierte Smart-Grid-Lademanagement für eine gesamte regionale Busflotte.",
         "coordinator": {
           "name": "illwerke vkw AG",
           "url": "https://www.illwerkevkw.at/"
         },
         "partners": [
           {
-            "name": "Verkehrsverbund Vorarlberg GmbH",
+            "name": "Verkehrsverbund Vorarlberg",
             "url": "https://www.vmobil.at/"
-          },
-          {
-            "name": "Nigg Bus GmbH",
-            "url": "https://www.nigg-bus.at/"
-          },
-          {
-            "name": "RHEINTAL Busverkehr GmbH",
-            "url": "https://www.rheintalbus.at/"
           },
           {
             "name": "FH Vorarlberg – Energy Research Centre",
             "url": "https://www.fhv.at/en/research/energy"
+          },
+          {
+            "name": "Nigg Bus GmbH",
+            "url": ""
           }
         ],
         "quellen": [
@@ -280,20 +332,8 @@ window.INNOVATION_DATA = [
             "url": "https://projekte.ffg.at/projekt/5131531"
           },
           {
-            "label": "illwerke vkw – Unternehmenswebsite",
-            "url": "https://www.illwerkevkw.at/"
-          },
-          {
             "label": "FHV Energy Research – EBusCharge Projekt",
             "url": "https://www.fhv.at/en/research/energy/projects/ongoing-projects/e-bus-charge"
-          },
-          {
-            "label": "Nachhaltig Wirtschaften – Smart Grids Pionierregion Vorarlberg",
-            "url": "https://nachhaltigwirtschaften.at/en/edz/highlights/smart-grids/pioneer-regions/great-walser-valley.php"
-          },
-          {
-            "label": "Oesterreichs Energie – Lünerseewerk II Leuchtturmprojekt",
-            "url": "https://oesterreichsenergie.at/aktuelles/neuigkeiten/detailseite/leuchttuerme-der-energiewende-oesterreichs-staerkster-pumpspeicher"
           }
         ],
         "image_url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80",
@@ -302,7 +342,7 @@ window.INNOVATION_DATA = [
         "axes": [
           8,
           9,
-          8,
+          9,
           8,
           9,
           9

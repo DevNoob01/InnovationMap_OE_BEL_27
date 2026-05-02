@@ -1,20 +1,19 @@
 ---
-name: CaCTUS – Carbon Capture, Transformation, Utilization and Storage Austria
-subtitle: Wissens- und Datenbasis für CCUS zur Erreichung der österreichischen Klimaneutralität 2040
-org: Montanuniversität Leoben – Lehrstuhl für Verfahrenstechnik des industriellen Umweltschutzes (VTiU)
-coordinator: Montanuniversität Leoben – VTiU (Prof. Markus Lehner)|https://www.evt-unileoben.at/de/forschung/flygrid/cactus
-partners: Energieinstitut an der JKU Linz|https://energieinstitut-linz.at/en/project/austrias-climate-neutrality-an-in-depth-evaluation-of-the-potential-contribution-of-ccu-and-ccs-for-the-austrian-long-term-climate-goals/,EY denkstatt GmbH|https://www.denkstatt.at/,GeoSphere Austria|https://www.geosphere.at/
-trl: 5
-srl: 6
-marktreife: 4
-skalierbarkeit: 6
-nachhaltigkeit: 9
-kooperationen: 7
-zukunft: Policy Briefs wurden an österreichische Ministerien übergeben; Folgeprojekte zu konkreten Source-to-Sink-Infrastrukturen in Planung. CaCTUS-Ergebnisse fließen direkt in die nationale Klimastrategie und den NEKP ein.
-quellen: Klima- und Energiefonds – CaCTUS Projektseite (ACRP 14th Call)|https://www.klimafonds.gv.at/projekt/cactus/;Energieinstitut JKU Linz – CaCTUS Projektseite|https://energieinstitut-linz.at/en/project/austrias-climate-neutrality-an-in-depth-evaluation-of-the-potential-contribution-of-ccu-and-ccs-for-the-austrian-long-term-climate-goals/;Peer-reviewed: CaCTUS Ergebnisse BHM Monatshefte Springer (2025)|https://link.springer.com/article/10.1007/s00501-025-01571-y;Peer-reviewed: Methodik Carbon Management Strategies Austria (Int. J. Sustainable Energy, 2024)|https://pure.unileoben.ac.at/en/publications/a-methodology-for-the-determination-of-future-carbon-management-s/;CaCTUS Stakeholder Workshop Bericht (JKU Linz)|https://energieinstitut-linz.at/en/cactus-stakeholder-workshop/
-image_url: https://images.unsplash.com/photo-1518173946687-a4c8892bbd9f?w=800&q=80
+name: GeoTief Wien – Tiefengeothermie
+subtitle: Wiens Weg zur geothermischen Wärmeversorgung für die klimaneutrale Metropole
+org: deeep GmbH (Joint Venture Wien Energie & OMV)
+coordinator: deeep GmbH|https://positionen.wienenergie.at/en/projects/geothermal-plant/
+partners: OMV Aktiengesellschaft|https://www.omv.com/en, GeoSphere Austria|https://www.geosphere.at/, Geologische Bundesanstalt (GBA)|https://www.geologie.ac.at/
+trl: 7
+srl: 8
+marktreife: 7
+skalierbarkeit: 9
+nachhaltigkeit: 10
+kooperationen: 9
+zukunft: Nach dem Bohrstart im Dezember 2024 werden 2026 die ersten Produktionstests abgeschlossen. Die EXPO 2027 präsentiert die Ergebnisse als skalierbares Modell für die Dekarbonisierung europäischer Fernwärmenetze.
+quellen: OMV Pressemitteilung – Bohrstart Dezember 2024|https://www.omv.com/en/media/press-releases/2024/241216-climate-neutral-district-heating-beginning-in-2028-drilling-starts-for-first-deep-geothermal-plant-in-vienna; Wien Energie –  Geothermie|https://positionen.wienerstadtwerke.at/positionen/energie/geothermie; Wien Energie - Geotief Wien|https://positionen.wienerstadtwerke.at/projekte/geotief; Geotief Wien|https://www.geotiefwien.at/
+image_url: https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?w=800&q=80
 ---
+Das Projekt GeoTief Wien stellt die wissenschaftliche und operative Grundlage für die Dekarbonisierung des Wiener Fernwärmenetzes dar. Durch das Joint Venture deeep zwischen Wien Energie und OMV wird das Reservoir des Aderklaaer Konglomerats in rund 3.000 Metern Tiefe für die thermische Nutzung erschlossen. Die Technologie nutzt natürliches Thermalwasser mit Temperaturen von etwa 100 Grad Celsius, um CO2-freie Wärme für die Stadt zu gewinnen.  
 
-CaCTUS (gefördert durch den Klima- und Energiefonds im ACRP-Programm, 14th Call) schließt zentrale Wissenslücken über das realistische Potenzial von CO₂-Abscheidung, -Nutzung und -Speicherung (CCUS) in Österreich. In enger Zusammenarbeit mit Industrie und Ministerien wurden bestehende und zukünftige CO₂-Quellen sowie potenzielle Senken für 2040 und 2050 identifiziert und quantifiziert.
-
-Das Projektkonsortium – Montanuniversität Leoben (Lehrstühle für VTiU, Energieverbundtechnik, Reservoir Engineering, Erdölgeologie), JKU Linz Energieinstitut, denkstatt und GeoSphere Austria – bewertete Source-to-Sink-Routen techno-ökonomisch und rechtlich, um kosteneffiziente Lösungen für Österreichs „hard-to-abate"-Emissionen in Stahl-, Zement- und Feuerfestindustrie zu identifizieren. Die Ergebnisse wurden in Policy Briefs für Entscheidungsträger zusammengefasst und dem Klimaschutzministerium übergeben.
+Nach erfolgreichen 3D-seismischen Erkundungen starteten im Dezember 2024 die Bohrarbeiten für die erste 20-Megawatt-Anlage am Standort Aspern. Unterstützt durch Forschungspartner wie GeoSphere Austria und die Geologische Bundesanstalt zielt das Projekt darauf ab, bis zum Jahr 2040 bis zu sieben Anlagen mit einer Gesamtkapazität von 200 Megawatt zu realisieren. Damit können langfristig 200.000 Haushalte mit klimaneutraler Fernwärme versorgt werden, was Wien als Vorreiter in der urbanen Tiefengeothermie positioniert.

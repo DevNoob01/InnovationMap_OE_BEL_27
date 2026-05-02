@@ -1,20 +1,19 @@
 ---
-name: WIVA P&G HyWest – Hydrogen Valley Tirol
-subtitle: Regionale grüne Wasserstoffwirtschaft von der Erzeugung bis zur Nutzung in Mobilität & Industrie
+name: WIVA P&G – Hydrogen Valley Austria
+subtitle: Aufbau einer regionalen grünen Wasserstoffwirtschaft entlang der gesamten Wertschöpfungskette
 org: WIVA P&G – Wasserstoffinitiative Vorzeigeregion Austria Power & Gas
-coordinator: WIVA P&G – Wasserstoffinitiative Vorzeigeregion Austria Power & Gas|https://www.wiva.at/
-partners: HyCentA Research GmbH (TU Graz)|https://www.hycenta.at/en/,MPREIS Warenvertriebs GmbH|https://www.mpreis.at/,TIWAG – Tiroler Wasserkraft AG|https://www.tiwag.at/,AVL List GmbH|https://www.avl.com/en/hydrogen
+coordinator: WIVA P&G|https://www.wiva.at/
+partners: HyCentA Research GmbH|https://www.hycenta.at/en/, MPREIS Warenvertriebs GmbH|https://www.mpreis.at/, TIWAG – Tiroler Wasserkraft AG|https://www.tiwag.at/, AVL List GmbH|https://www.avl.com/en/hydrogen, Verbund AG|https://www.verbund.com/en-at/about-verbund/strategy/hydrogen, voestalpine AG|https://www.voestalpine.com/group/en/strategy/sustainability/hydrogen/, OMV Aktiengesellschaft|https://www.omv.com/en/energy-transition/hydrogen, RAG Austria AG|https://www.rag-austria.at/en/energy-storage/hydrogen, Energie AG Oberösterreich|https://www.energieag.at/themen/wasserstoff, Salzburg AG|https://www.salzburg-ag.at/energie/wasserstoff.html, EVN AG|https://www.evn.at/home/wasserstoff, illwerke vkw AG|https://www.illwerkevkw.at/wasserstoff.htm, Graz-Köflacher Bahn und Busbetrieb GmbH (GKB)|https://www.gkb.at/index.php/innovation/wasserstoff, Fronius International GmbH|https://www.fronius.com/en/solar-energy/installers-partners/products-solutions/hydrogen-solutions, FEN Systems|https://www.fen-systems.com/, INNIO Jenbacher|https://www.innio.com/en/jenbacher, Liebherr-Hausgeräte Lienz|https://www.liebherr.com/en/aut/products/household-appliances/household-appliances.html, Schmid Holding|https://www.schmid-group.com/, Thöni Industriebetriebe|https://www.thoeni.com/en/, Wolftank Group|https://wolftankgroup.com/, Energie Burgenland|https://www.energieburgenland.at/, Kelag|https://www.kelag.at/, Messer Austria|https://www.messer.at/, Wiener Stadtwerke|https://www.wienerstadtwerke.at
 trl: 7
-srl: 7
+srl: 8
 marktreife: 7
-skalierbarkeit: 8
-nachhaltigkeit: 9
-kooperationen: 9
-zukunft: Aufbauend auf HyWest bündelt die Initiative „Hydrogen Valley Austria" (Steiermark, OÖ, Kärnten) 48 Partner und €578 Mio. Investitionen bis 2030 entlang der gesamten H₂-Wertschöpfungskette für industrielle Anwendungen.
-quellen: FFG Projektdatenbank – HyWest (Projekt 4083349)|https://projekte.ffg.at/projekt/4083349;WIVA P&G Projektwebsite|https://www.wiva.at/;Peer-reviewed: WIVA P&G HyWest – Austria's first regional green H₂ economy (Energies MDPI, 2023)|https://www.mdpi.com/1996-1073/16/9/3619;Green Tech Valley – Launch Hydrogen Valley Austria (Feb. 2025)|https://www.greentech.at/en/launch-of-the-first-european-hydrogen-valley-for-industry/
-image_url: https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?w=800&q=80
+skalierbarkeit: 9
+nachhaltigkeit: 10
+kooperationen: 10
+zukunft: Das HI2Valley bündelt 18 Einzelprojekte zu einem nationalen Wasserstoff-Backbone. Bis 2030 werden €578 Mio. investiert, um Österreich als zentrale Drehscheibe der europäischen Wasserstoffwirtschaft zu etablieren. Auf der EXPO 2027 wird die gesamte Wertschöpfungskette – von der alpinen Erzeugung bis zur industriellen Nutzung – als interaktives Modell präsentiert.
+quellen: FFG Projektdatenbank – HyWest (Projekt 4083349)|https://projekte.ffg.at/projekt/4083349; Green Tech Valley – Launch Hydrogen Valley Austria (Feb. 2025)|https://www.greentech.at/en/launch-of-the-first-european-hydrogen-valley-for-industry/; HI2 (Hydrogen Industrial Inland Valley) Valley|https://www.hi2valley.com/; Hydrogen Valley Austria|https://hydrogen-central.com/hydrogen-valley-in-austria-three-federal-states-in-the-starting-blocks/
+image_url: https://images.unsplash.com/photo-1548337138-e87d889cc369?w=800&q=80
 ---
+Das Hydrogen Industrial Inland Valley (HI2Valley) ist ein europäisches Leuchtturmprojekt, das die Transformation von regionalen Pilotversuchen in eine großskalierte nationale Wasserstoffwirtschaft realisiert. Mit einem Portfolio von 18 integrierten Projekten deckt das Valley die vollständige Wertschöpfungskette ab. Dies umfasst die regenerative Erzeugung mittels Wasserkraft und Wind durch TIWAG und Verbund, die saisonale Untergrundspeicherung in Porenlagern durch RAG Austria sowie die Dekarbonisierung der Schwerindustrie bei voestalpine.
 
-Das Vorzeigeregionprojekt HyWest (gefördert durch FFG/BMK, Projekt-Nr. 4083349) baut in Tirol eine weitgehend autonome regionale Wasserstoffwirtschaft auf. Die Tiroler Landesregierung verabschiedete im Jänner 2020 die „Tirol 2030 Wasserstoffstrategie" – HyWest ist ihre operative Umsetzung.
-
-Das Projekt deckt alle Schlüsselstellen einer H₂-Wirtschaft ab: TIWAG erzeugt grünen Wasserstoff per Elektrolyse an Wasserkraftstandorten; MPREIS nutzt ihn für die Lebensmittelproduktion und für Brennstoffzellen-LKW auf Transportrouten; HyCentA (TU Graz) entwickelt 700-bar-Betankungsinfrastruktur für Busse und Schwerlastfahrzeuge; AVL untersucht Brennstoffzellenantriebe. Eine virtuelle Datenplattform koordiniert Erzeugung, Logistik und Verbrauch in Echtzeit. Die erzielten Erkenntnisse sind direkte Grundlage für das pan-österreichische „Hydrogen Valley Austria", das Steiermark, Oberösterreich und Kärnten umfasst.
+Das Netzwerk aus 48 Partnern demonstriert technologische Souveränität in verschiedenen Schlüsselbereichen. Im Bereich Mobilität betreibt MPREIS eine der ersten wasserstoffbasierten Lebensmittellogistik-Flotten Europas mit Unterstützung durch die Brennstoffzellen-Expertise von AVL List. Für die Infrastruktur entwickeln HyCentA und die Wolftank Group moderne 700-bar-Betankungssysteme für den Schwerlastverkehr und die Schiene. Durch die Kooperation von Energieversorgern aus allen Bundesländern wie EVN, Wien Energie und illwerke vkw entsteht ein resilienter Inland-Hub, der als Blaupause für Binnenstaaten weltweit dient. Das HI2Valley ist ein wirtschaftliches Ökosystem mit einem Investitionsvolumen von 578 Millionen Euro, das Österreichs Rolle im europäischen Wasserstoff-Netzwerk bis 2030 sichert.
