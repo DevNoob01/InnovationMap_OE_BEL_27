@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'data/**'
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -36,6 +37,11 @@ jobs:
       - name: Build data.js
         working-directory: scripts
         run: python build.py
+
+      - name: Inject cache-busting timestamp
+        run: |
+          TS=$(date +%s)
+          sed -i "s|data/data.js?v=__TIMESTAMP__|data/data.js?v=$TS|g" index.html
 
       - name: Upload site to Pages
         uses: actions/upload-pages-artifact@v3
