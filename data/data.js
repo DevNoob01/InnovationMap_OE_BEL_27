@@ -1005,6 +1005,48 @@ window.INNOVATION_DATA = [
           9,
           9
         ]
+      },
+      {
+        "name": "Test Projekt – Workflow Check",
+        "org": "Test Organisation",
+        "subtitle": "Automatischer Build-Test via GitHub Actions",
+        "beschreibung": "Dies ist ein Dummy-Projekt zum Testen des GitHub Actions Workflows. Wenn dieses Projekt in der Innovation Map erscheint, hat der automatische Build funktioniert und kann gelöscht werden.",
+        "zukunft": "Dieses Projekt dient ausschließlich zum Testen des automatischen Build-Workflows. Es kann nach erfolgreichem Test gelöscht werden.",
+        "coordinator": {
+          "name": "Test Koordinator",
+          "url": "https://example.com"
+        },
+        "partners": [
+          {
+            "name": "Partner A",
+            "url": "https://example.com"
+          },
+          {
+            "name": "Partner B",
+            "url": "https://example.com"
+          }
+        ],
+        "quellen": [
+          {
+            "label": "Test Quelle A",
+            "url": "https://example.com"
+          },
+          {
+            "label": "Test Quelle B",
+            "url": "https://example.com"
+          }
+        ],
+        "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+        "trl": 5,
+        "srl": 5,
+        "axes": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ]
       }
     ]
   },
