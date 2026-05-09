@@ -1,5 +1,5 @@
 ---
-name: Test Projekt – Workflow Check 3
+name: Test Projekt – Workflow Check 4
 subtitle: Automatischer Build-Test via GitHub Actions
 org: Test Organisation
 coordinator: Test Koordinator|https://example.com
