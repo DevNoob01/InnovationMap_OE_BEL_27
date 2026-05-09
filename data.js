@@ -274,57 +274,109 @@ window.INNOVATION_DATA = [
         ]
       },
       {
-        "name": "GeoTief Wien – Tiefengeothermie",
-        "org": "deeep GmbH (Joint Venture Wien Energie & OMV)",
-        "subtitle": "Wiens Weg zur geothermischen Wärmeversorgung für die klimaneutrale Metropole",
-        "beschreibung": "Das Projekt GeoTief Wien stellt die wissenschaftliche und operative Grundlage für die Dekarbonisierung des Wiener Fernwärmenetzes dar. Durch das Joint Venture deeep zwischen Wien Energie und OMV wird das Reservoir des Aderklaaer Konglomerats in rund 3.000 Metern Tiefe für die thermische Nutzung erschlossen. Die Technologie nutzt natürliches Thermalwasser mit Temperaturen von etwa 100 Grad Celsius, um CO2-freie Wärme für die Stadt zu gewinnen.  \n\nNach erfolgreichen 3D-seismischen Erkundungen starteten im Dezember 2024 die Bohrarbeiten für die erste 20-Megawatt-Anlage am Standort Aspern. Unterstützt durch Forschungspartner wie GeoSphere Austria und die Geologische Bundesanstalt zielt das Projekt darauf ab, bis zum Jahr 2040 bis zu sieben Anlagen mit einer Gesamtkapazität von 200 Megawatt zu realisieren. Damit können langfristig 200.000 Haushalte mit klimaneutraler Fernwärme versorgt werden, was Wien als Vorreiter in der urbanen Tiefengeothermie positioniert.",
-        "zukunft": "Nach dem Bohrstart im Dezember 2024 werden 2026 die ersten Produktionstests abgeschlossen. Die EXPO 2027 präsentiert die Ergebnisse als skalierbares Modell für die Dekarbonisierung europäischer Fernwärmenetze.",
+        "name": "SemI40 – Power Semiconductor and Electronics Manufacturing 4.0",
+        "org": "Infineon Technologies Austria AG",
+        "subtitle": "Europäische Industrie-4.0-Plattform für resiliente Halbleiter- und Elektronikfertigung",
+        "beschreibung": "Das europäische Forschungs- und Industrieprojekt SemI40 („Power Semiconductor and Electronics Manufacturing 4.0“) verfolgt das Ziel, die Wettbewerbsfähigkeit der europäischen Halbleiter- und Elektronikindustrie durch intelligente, nachhaltige und vollständig integrierte Produktionssysteme zu stärken. Im Fokus steht die Digitalisierung der Fertigung nach den Prinzipien von Industrie 4.0, um Europa als führenden Standort für Mikroelektronik „Made in Europe“ langfristig abzusichern.\n\nDas Projekt entwickelt und implementiert technologische Lösungen entlang der gesamten Wertschöpfungskette der Elektronikfertigung – von Materialforschung und Prozessinnovation bis hin zu Pilotfertigungen und industriellen Anwendungen. Die entwickelten Systeme werden in realen Produktionsumgebungen getestet und auf Technologiereifegrade zwischen TRL 4 und TRL 8 gebracht. Dadurch entsteht ein direkter Transfer von Forschungsergebnissen in industrielle Produktionslinien.\n\nSemI40 adressiert zentrale Herausforderungen moderner Halbleiterfertigung: höhere Produktionsflexibilität, verbesserte Transparenz zwischen Fertigungs- und ERP-Systemen, datengetriebene Entscheidungsunterstützung, intelligente Wartungskonzepte sowie die Virtualisierung und Automatisierung von Fabriken. Dazu werden Technologien aus den Bereichen Big Data, Industrial Internet und KI-gestützte Prozessoptimierung kombiniert.\n\nEin besonderer Fokus liegt auf resilienten und agilen Produktionsnetzwerken. Durch intelligente Datenanalysen und vernetzte Fertigungssysteme sollen Produktionsprozesse effizienter, nachhaltiger und robuster gegenüber Störungen gestaltet werden. Gleichzeitig untersucht das Projekt die Auswirkungen auf Arbeitsbedingungen, Qualifikationen und zukünftige industrielle Kompetenzprofile.\n\nDas Konsortium umfasst 37 Partner aus fünf europäischen Ländern und vereint Industrieunternehmen, Forschungszentren und Universitäten. Unter der Leitung von Infineon Technologies Austria arbeiten unter anderem AT&S, AVL, Bosch, TU Wien, Fraunhofer, AIT und zahlreiche europäische Technologiepartner an der nächsten Generation digitaler Halbleiterfertigung.\n\nMit seiner starken industriellen Verankerung trägt SemI40 zur Sicherung von über 300.000 Arbeitsplätzen entlang globaler Wertschöpfungsketten bei und stärkt Europas strategische Unabhängigkeit in der Mikroelektronik – einer Schlüsseltechnologie für Energie, Mobilität, Kommunikation und künstliche Intelligenz.",
+        "zukunft": "SemI40 schafft die Grundlage für eine hochautomatisierte europäische Halbleiterproduktion mit resilienten Lieferketten, datengetriebener Fertigung und digitalisierten Produktionsprozessen. Die entwickelten Technologien stärken Europas technologische Souveränität im Mikroelektroniksektor und bilden einen wichtigen Baustein für zukünftige KI-, Energie- und Mobilitätsanwendungen.",
         "coordinator": {
-          "name": "deeep GmbH",
-          "url": "https://positionen.wienenergie.at/en/projects/geothermal-plant/"
+          "name": "Infineon Technologies Austria AG",
+          "url": "https://www.infineon.com/"
         },
         "partners": [
           {
-            "name": "OMV Aktiengesellschaft",
-            "url": "https://www.omv.com/en"
+            "name": "KAI Kompetenzzentrum Automobil- und Industrieelektronik GmbH",
+            "url": "https://www.kaikompetenzzentrum.com/"
           },
           {
-            "name": "GeoSphere Austria",
-            "url": "https://www.geosphere.at/"
+            "name": "KNOW Center Research GmbH",
+            "url": "https://www.know-center.at/"
           },
           {
-            "name": "Geologische Bundesanstalt (GBA)",
-            "url": "https://www.geologie.ac.at/"
+            "name": "Infineon Technologies IT-Services GmbH",
+            "url": "https://www.infineon.com/"
+          },
+          {
+            "name": "AT&S Austria Technologie & Systemtechnik AG",
+            "url": "https://ats.net/"
+          },
+          {
+            "name": "Fraunhofer Austria Research GmbH",
+            "url": "https://www.fraunhofer.at/"
+          },
+          {
+            "name": "Technische Universität Wien",
+            "url": "https://www.tuwien.at/"
+          },
+          {
+            "name": "Plansee SE",
+            "url": "https://www.plansee.com/"
+          },
+          {
+            "name": "AVL List GmbH",
+            "url": "https://www.avl.com/"
+          },
+          {
+            "name": "Universität Klagenfurt",
+            "url": "https://www.aau.at/"
+          },
+          {
+            "name": "Virtual Vehicle Research GmbH",
+            "url": "https://www.v2c2.at/"
+          },
+          {
+            "name": "AIT Austrian Institute of Technology",
+            "url": "https://www.ait.ac.at/"
+          },
+          {
+            "name": "Hochschule Burgenland",
+            "url": "https://www.hochschule-burgenland.at/"
+          },
+          {
+            "name": "Materials Center Leoben Forschung GmbH",
+            "url": "https://www.mcl.at/"
+          },
+          {
+            "name": "Robert Bosch GmbH",
+            "url": "https://www.bosch.com/"
+          },
+          {
+            "name": "Semikron Danfoss",
+            "url": "https://www.semikron-danfoss.com/"
+          },
+          {
+            "name": "Technische Universität Dresden",
+            "url": "https://tu-dresden.de/"
+          },
+          {
+            "name": "Politecnico di Milano",
+            "url": "https://www.polimi.it/"
+          },
+          {
+            "name": "Universidade de Aveiro",
+            "url": "https://www.ua.pt/"
+          },
+          {
+            "name": "Fraunhofer-Gesellschaft",
+            "url": "https://www.fraunhofer.de/"
           }
         ],
         "quellen": [
           {
-            "label": "OMV Pressemitteilung – Bohrstart Dezember 2024",
-            "url": "https://www.omv.com/en/media/press-releases/2024/241216-climate-neutral-district-heating-beginning-in-2028-drilling-starts-for-first-deep-geothermal-plant-in-vienna"
-          },
-          {
-            "label": "Wien Energie –  Geothermie",
-            "url": "https://positionen.wienerstadtwerke.at/positionen/energie/geothermie"
-          },
-          {
-            "label": "Wien Energie - Geotief Wien",
-            "url": "https://positionen.wienerstadtwerke.at/projekte/geotief"
-          },
-          {
-            "label": "Geotief Wien",
-            "url": "https://www.geotiefwien.at/"
+            "label": "CORDIS – SemI40",
+            "url": "https://cordis.europa.eu/project/id/692466, Infineon Austria – SemI40|https://www.infineon.com/, ECSEL JU|https://www.ecsel.eu/, Fraunhofer Austria|https://www.fraunhofer.at/"
           }
         ],
-        "image_url": "https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?w=800&q=80",
+        "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
         "trl": 7,
         "srl": 8,
         "axes": [
           7,
           8,
-          7,
+          1,
           9,
-          10,
-          9
+          8,
+          10
         ]
       }
     ]
