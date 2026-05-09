@@ -1007,7 +1007,7 @@ window.INNOVATION_DATA = [
         ]
       },
       {
-        "name": "Test Projekt – Workflow Check",
+        "name": "Test Projekt – Workflow Check 2",
         "org": "Test Organisation",
         "subtitle": "Automatischer Build-Test via GitHub Actions",
         "beschreibung": "Dies ist ein Dummy-Projekt zum Testen des GitHub Actions Workflows. Wenn dieses Projekt in der Innovation Map erscheint, hat der automatische Build funktioniert und kann gelöscht werden.",
