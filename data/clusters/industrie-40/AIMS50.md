@@ -10,7 +10,7 @@ skalierbarkeit: 10
 nachhaltigkeit: 10
 kooperationen: 10
 zukunft: AIMS5.0 legt die Grundlage für europäische KI-Fabriken der nächsten Generation und unterstützt den Übergang von Industrie 4.0 zu Industrie 5.0. Durch intelligente Produktionssysteme, resiliente Lieferketten und nachhaltige Fertigung stärkt das Projekt Europas digitale Souveränität und Wettbewerbsfähigkeit. Die entwickelten Technologien können künftig in zahlreichen Industriebranchen skaliert werden – von Mikroelektronik und Automotive bis hin zu Energie- und Konsumgüterproduktion.
-quellen: CORDIS – AIMS5.0|https://cordis.europa.eu/project/id/101112089, AIMS5.0 Official Website|https://aims50.eu/, Infineon Technologies|https://www.infineon.com/, AIT Austrian Institute of Technology|https://www.ait.ac.at/
+quellen: CORDIS – AIMS5.0|https://cordis.europa.eu/project/id/101112089; AIMS5.0 Official Website|https://aims50.eu/; Infineon Technologies|https://www.infineon.com/; AIT Austrian Institute of Technology|https://www.ait.ac.at/
 image_url: https://edge-ai-tech.eu/wp-content/uploads/2025/07/Logo-AIMS5.0-scaled.png
 ---
 Das europäische Forschungsprojekt AIMS5.0 („Artificial Intelligence in Manufacturing leading to Sustainability and Industry5.0“) entwickelt KI-gestützte Technologien für die nächste Generation nachhaltiger und resilienter Industrieproduktion in Europa. Ziel des Projekts ist es, europäische Wertschöpfungsketten widerstandsfähiger, effizienter und ökologischer zu gestalten und gleichzeitig die digitale Souveränität Europas im industriellen Umfeld zu stärken.

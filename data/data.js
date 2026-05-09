@@ -102,7 +102,11 @@ window.INNOVATION_DATA = [
         "quellen": [
           {
             "label": "ViennaGIS Stadtplan",
-            "url": "https://www.wien.gv.at/inhalt/viennagis, Fachpublikation Digitaler Geozwilling | https://www.adv.at/wp-content/uploads/2021/09/KORDASCH-Sara_LEHNER-Hubert_DigitalergeoZwilling.pdf"
+            "url": "https://www.wien.gv.at/inhalt/viennagis"
+          },
+          {
+            "label": "Fachpublikation Digitaler Geozwilling",
+            "url": "https://www.adv.at/wp-content/uploads/2021/09/KORDASCH-Sara_LEHNER-Hubert_DigitalergeoZwilling.pdf"
           }
         ],
         "image_url": "[Link zum Bild]",
@@ -275,7 +279,19 @@ window.INNOVATION_DATA = [
         "quellen": [
           {
             "label": "CORDIS – AIMS5.0",
-            "url": "https://cordis.europa.eu/project/id/101112089, AIMS5.0 Official Website|https://aims50.eu/, Infineon Technologies|https://www.infineon.com/, AIT Austrian Institute of Technology|https://www.ait.ac.at/"
+            "url": "https://cordis.europa.eu/project/id/101112089"
+          },
+          {
+            "label": "AIMS5.0 Official Website",
+            "url": "https://aims50.eu/"
+          },
+          {
+            "label": "Infineon Technologies",
+            "url": "https://www.infineon.com/"
+          },
+          {
+            "label": "AIT Austrian Institute of Technology",
+            "url": "https://www.ait.ac.at/"
           }
         ],
         "image_url": "https://edge-ai-tech.eu/wp-content/uploads/2025/07/Logo-AIMS5.0-scaled.png",
@@ -377,7 +393,19 @@ window.INNOVATION_DATA = [
         "quellen": [
           {
             "label": "CORDIS – AWARD Project",
-            "url": "https://cordis.europa.eu/project/id/101006817, EASYMILE – Autonomous Solutions|https://easymile.com/, AIT Austrian Institute of Technology – AWARD|https://www.ait.ac.at/themen/automatisiertes-fahren/award, Fraunhofer Austria – AWARD Projekt|https://www.fraunhofer.at/"
+            "url": "https://cordis.europa.eu/project/id/101006817"
+          },
+          {
+            "label": "EASYMILE – Autonomous Solutions",
+            "url": "https://easymile.com/"
+          },
+          {
+            "label": "AIT Austrian Institute of Technology – AWARD",
+            "url": "https://www.ait.ac.at/themen/automatisiertes-fahren/award"
+          },
+          {
+            "label": "Fraunhofer Austria – AWARD Projekt",
+            "url": "https://www.fraunhofer.at/"
           }
         ],
         "image_url": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800&q=80",
@@ -493,7 +521,19 @@ window.INNOVATION_DATA = [
         "quellen": [
           {
             "label": "FFG Projektseite – EuProGigant",
-            "url": "https://projekte.ffg.at/projekt/4694450, TU Wien – EuProGigant|https://www.tuwien.at/mwbw/ikp/mivp/forschung/aktuelle-projekte/euprogigant, GAIA-X|https://gaia-x.eu/, EIT Manufacturing|https://www.eitmanufacturing.eu/"
+            "url": "https://projekte.ffg.at/projekt/4694450"
+          },
+          {
+            "label": "TU Wien – EuProGigant",
+            "url": "https://www.tuwien.at/mwbw/ikp/mivp/forschung/aktuelle-projekte/euprogigant"
+          },
+          {
+            "label": "GAIA-X",
+            "url": "https://gaia-x.eu/"
+          },
+          {
+            "label": "EIT Manufacturing",
+            "url": "https://www.eitmanufacturing.eu/"
           }
         ],
         "image_url": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=800&q=80",
@@ -599,7 +639,19 @@ window.INNOVATION_DATA = [
         "quellen": [
           {
             "label": "CORDIS – SemI40",
-            "url": "https://cordis.europa.eu/project/id/692466, Infineon Austria – SemI40|https://www.infineon.com/, ECSEL JU|https://www.ecsel.eu/, Fraunhofer Austria|https://www.fraunhofer.at/"
+            "url": "https://cordis.europa.eu/project/id/692466"
+          },
+          {
+            "label": "Infineon Austria – SemI40",
+            "url": "https://www.infineon.com/"
+          },
+          {
+            "label": "ECSEL JU",
+            "url": "https://www.ecsel.eu/"
+          },
+          {
+            "label": "Fraunhofer Austria",
+            "url": "https://www.fraunhofer.at/"
           }
         ],
         "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
@@ -650,7 +702,11 @@ window.INNOVATION_DATA = [
             "url": "https://www.klimafonds.gv.at/projekt/helioplant-photovoltaikanlagetiefenbachgletscher-soelden/"
           },
           {
-            "label": "pv magazine – Solaredge & Helioplant 6,3 MW Sölden (Jan. 2026)",
+            "label": "pv magazine – Solaredge & Helioplant 6",
+            "url": ""
+          },
+          {
+            "label": "3 MW Sölden (Jan. 2026)",
             "url": "https://www.pv-magazine.de/2026/01/28/solaredge-und-helioplant-realisieren-alpines-photovoltaik-kraftwerk-mit-63-megawatt-in-oesterreich/"
           }
         ],

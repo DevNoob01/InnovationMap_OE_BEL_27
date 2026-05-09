@@ -11,7 +11,7 @@ skalierbarkeit: 8
 nachhaltigkeit: 9
 kooperationen: 8
 zukunft: Fertigstellung der 6,3-MW-Vollanlage im zweiten Halbjahr 2026. Das Projekt dient als globaler Benchmark für EXPO 2027, um PV-Potenziale in extremen Höhenlagen und Skigebieten weltweit zu erschließen.
-quellen: Klima- und Energiefonds – Projektseite HELIOPLANT®|https://www.klimafonds.gv.at/projekt/helioplant-photovoltaikanlagetiefenbachgletscher-soelden/; pv magazine – Solaredge & Helioplant 6,3 MW Sölden (Jan. 2026)|https://www.pv-magazine.de/2026/01/28/solaredge-und-helioplant-realisieren-alpines-photovoltaik-kraftwerk-mit-63-megawatt-in-oesterreich/
+quellen: Klima- und Energiefonds – Projektseite HELIOPLANT®|https://www.klimafonds.gv.at/projekt/helioplant-photovoltaikanlagetiefenbachgletscher-soelden/; pv magazine – Solaredge & Helioplant 6;3 MW Sölden (Jan. 2026)|https://www.pv-magazine.de/2026/01/28/solaredge-und-helioplant-realisieren-alpines-photovoltaik-kraftwerk-mit-63-megawatt-in-oesterreich/
 image_url: https://images.unsplash.com/photo-1509391366360-2e959784a276?w=800&q=80
 ---
 Das Projekt Helioplant am Tiefenbachgletscher in Sölden realisiert ein alpines Photovoltaik-Kraftwerk mit einer Leistung von 6,3 Megawatt. Das Vorhaben nutzt ein patentiertes kreuzförmiges Trägersystem für bifaziale PV-Module, das speziell für extreme Bedingungen in Höhenlagen zwischen 2.850 und 3.000 Metern entwickelt wurde. Die baumförmige Konstruktion verhindert durch natürliche Luftverwirbelung die Schneeansammlung auf den Modulen und nutzt den Albedo-Effekt des reflektierenden Schnees für einen bis zu 40 Prozent höheren Energieertrag im Vergleich zu Tal-Anlagen.  

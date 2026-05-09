@@ -10,7 +10,7 @@ skalierbarkeit: 9
 nachhaltigkeit: 8
 kooperationen: 10
 zukunft: SemI40 schafft die Grundlage für eine hochautomatisierte europäische Halbleiterproduktion mit resilienten Lieferketten, datengetriebener Fertigung und digitalisierten Produktionsprozessen. Die entwickelten Technologien stärken Europas technologische Souveränität im Mikroelektroniksektor und bilden einen wichtigen Baustein für zukünftige KI-, Energie- und Mobilitätsanwendungen.
-quellen: CORDIS – SemI40|https://cordis.europa.eu/project/id/692466, Infineon Austria – SemI40|https://www.infineon.com/, ECSEL JU|https://www.ecsel.eu/, Fraunhofer Austria|https://www.fraunhofer.at/
+quellen: CORDIS – SemI40|https://cordis.europa.eu/project/id/692466; Infineon Austria – SemI40|https://www.infineon.com/; ECSEL JU|https://www.ecsel.eu/; Fraunhofer Austria|https://www.fraunhofer.at/
 image_url: https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80
 ---
 Das europäische Forschungs- und Industrieprojekt SemI40 („Power Semiconductor and Electronics Manufacturing 4.0“) verfolgt das Ziel, die Wettbewerbsfähigkeit der europäischen Halbleiter- und Elektronikindustrie durch intelligente, nachhaltige und vollständig integrierte Produktionssysteme zu stärken. Im Fokus steht die Digitalisierung der Fertigung nach den Prinzipien von Industrie 4.0, um Europa als führenden Standort für Mikroelektronik „Made in Europe“ langfristig abzusichern.

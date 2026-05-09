@@ -10,7 +10,7 @@ skalierbarkeit: 8
 nachhaltigkeit: 8
 kooperationen: 10
 zukunft: Das Projekt schafft die Grundlage für autonome Schwerlast- und Logistikfahrzeuge, die unabhängig von Wetterbedingungen rund um die Uhr operieren können. Langfristig ermöglicht AWARD resilientere Lieferketten, reduzierte Transportkosten und eine stärkere Automatisierung europäischer Industrie- und Hafenlogistik. Die entwickelten Systeme können künftig in Smart Factories, Industriearealen und urbanen Güterverkehrsnetzen eingesetzt werden.
-quellen: CORDIS – AWARD Project|https://cordis.europa.eu/project/id/101006817, EASYMILE – Autonomous Solutions|https://easymile.com/, AIT Austrian Institute of Technology – AWARD|https://www.ait.ac.at/themen/automatisiertes-fahren/award, Fraunhofer Austria – AWARD Projekt|https://www.fraunhofer.at/
+quellen: CORDIS – AWARD Project|https://cordis.europa.eu/project/id/101006817; EASYMILE – Autonomous Solutions|https://easymile.com/; AIT Austrian Institute of Technology – AWARD|https://www.ait.ac.at/themen/automatisiertes-fahren/award; Fraunhofer Austria – AWARD Projekt|https://www.fraunhofer.at/
 image_url: https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800&q=80
 ---
 Das EU-Projekt AWARD („All Weather Autonomous Real logistics operations and Demonstrations“) entwickelt ein autonomes Transportsystem für industrielle und logistische Anwendungen unter schwierigen Umweltbedingungen. Ziel ist es, automatisierte Schwerlastfahrzeuge und Transportplattformen zu schaffen, die auch bei Nebel, Starkregen, Schnee oder Dunkelheit sicher und zuverlässig operieren können. Dadurch sollen Logistikprozesse resilienter, effizienter und wirtschaftlicher gestaltet werden.

@@ -10,7 +10,7 @@ skalierbarkeit: 9
 nachhaltigkeit: 8
 kooperationen: 9
 zukunft: EuProGigant bildet eine zentrale Grundlage für souveräne europäische Produktionsdatenräume auf Basis von GAIA-X. Langfristig ermöglicht das Projekt resiliente, selbstorganisierende und standortübergreifende Produktionsnetzwerke, die Störungen automatisiert kompensieren und industrielle Wertschöpfung in Europa absichern können. Die entwickelten Datenservices und Wissensplattformen schaffen zudem die Basis für zukünftige KI-gestützte Industrieökosysteme.
-quellen: FFG Projektseite – EuProGigant|https://projekte.ffg.at/projekt/4694450, TU Wien – EuProGigant|https://www.tuwien.at/mwbw/ikp/mivp/forschung/aktuelle-projekte/euprogigant, GAIA-X|https://gaia-x.eu/, EIT Manufacturing|https://www.eitmanufacturing.eu/
+quellen: FFG Projektseite – EuProGigant|https://projekte.ffg.at/projekt/4694450; TU Wien – EuProGigant|https://www.tuwien.at/mwbw/ikp/mivp/forschung/aktuelle-projekte/euprogigant; GAIA-X|https://gaia-x.eu/; EIT Manufacturing|https://www.eitmanufacturing.eu/
 image_url: https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=800&q=80
 ---
 Das Projekt EuProGigant („Europäisches Produktionsgiganet zur kalamitätsmindernden Selbstorchestrierung von Wertschöpfungs- und Lernökosystemen“) entwickelt ein standortübergreifendes digitales Produktionsökosystem zur Stärkung der Resilienz und Wettbewerbsfähigkeit der europäischen Industrie. Ziel ist es, industrielle Wertschöpfungssysteme durch datengetriebene Vernetzung, intelligente Services und souveräne Cloud-Infrastrukturen widerstandsfähiger gegenüber Krisen, Lieferengpässen und Produktionsstörungen zu machen.
