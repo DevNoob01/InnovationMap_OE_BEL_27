@@ -64,17 +64,39 @@ header{
 .c-nav{
   backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);
   background:rgba(5,8,20,0.7);border-bottom:1px solid var(--border);
-  overflow-x:auto;overflow-y:hidden;flex-shrink:0;
+  flex-shrink:0;position:relative;display:flex;align-items:center;
+}
+.c-nav-label{display:none;}
+.c-nav-scroll{
+  display:flex;gap:8px;padding:.6rem 1rem;
+  overflow-x:auto;overflow-y:hidden;
   -webkit-overflow-scrolling:touch;
   scrollbar-width:none;
+  scroll-behavior:smooth;
+  flex:1;
 }
-.c-nav::-webkit-scrollbar{display:none;}
-.c-nav-label{display:none;}
+.c-nav-scroll::-webkit-scrollbar{display:none;}
 .c-nav-inner{
-  display:flex;gap:8px;padding:.6rem 1rem;
+  display:flex;gap:8px;
   width:max-content;
   pointer-events:auto;opacity:1;
 }
+.c-nav-arrow{
+  display:none;
+  align-items:center;justify-content:center;
+  width:32px;height:32px;flex-shrink:0;
+  background:rgba(255,255,255,.07);border:1px solid var(--border);
+  border-radius:50%;cursor:pointer;color:var(--text-2);
+  font-size:14px;transition:all .18s;z-index:2;margin:0 6px;
+  user-select:none;
+}
+.c-nav-arrow:hover{background:rgba(255,255,255,.15);color:#fff;}
+.c-nav-arrow.hidden{opacity:0;pointer-events:none;}
+.c-nav-fade-l,.c-nav-fade-r{
+  display:none;position:absolute;top:0;bottom:0;width:48px;pointer-events:none;z-index:1;
+}
+.c-nav-fade-l{left:44px;background:linear-gradient(90deg,rgba(5,8,20,0.85),transparent);}
+.c-nav-fade-r{right:44px;background:linear-gradient(270deg,rgba(5,8,20,0.85),transparent);}
 .c-btn{
   display:flex;align-items:center;gap:6px;padding:7px 13px;
   border-radius:7px;border:1px solid var(--border);background:transparent;
@@ -212,12 +234,10 @@ footer{width:100%;padding:1rem;display:flex;justify-content:space-between;align-
   .kpi-n{font-size:22px;}
   .kpi-l{font-size:10px;}
 
-  .c-nav{
-    background:rgba(5,8,20,0.8);
-    overflow:visible;
-    display:flex;align-items:center;justify-content:center;
-  }
-  .c-nav-inner{opacity:1;padding:.75rem 1.5rem;pointer-events:auto;width:auto;}
+  .c-nav{background:rgba(5,8,20,0.8);}
+  .c-nav-scroll{padding:.75rem 1.5rem;}
+  .c-nav-arrow{display:flex;}
+  .c-nav-fade-l,.c-nav-fade-r{display:block;}
   .c-nav-label{display:none;}
 
   .page{
@@ -296,8 +316,13 @@ footer{width:100%;padding:1rem;display:flex;justify-content:space-between;align-
 </header>
 
 <nav class="c-nav">
-  <div class="c-nav-label">Cluster</div>
-  <div class="c-nav-inner" id="cNav"></div>
+  <button class="c-nav-arrow hidden" id="navArrowL" aria-label="Scroll left">&#8249;</button>
+  <div class="c-nav-fade-l"></div>
+  <div class="c-nav-scroll" id="cNavScroll">
+    <div class="c-nav-inner" id="cNav"></div>
+  </div>
+  <div class="c-nav-fade-r"></div>
+  <button class="c-nav-arrow" id="navArrowR" aria-label="Scroll right">&#8250;</button>
 </nav>
 
 <div class="page">
@@ -457,6 +482,25 @@ function renderProjects(i){
   }).join('');
 }
 if(clusters.length) pickCluster(0);
+
+// ── NAV ARROW SCROLL ──
+(function(){
+  const scroll = $('cNavScroll');
+  const btnL   = $('navArrowL');
+  const btnR   = $('navArrowR');
+  if(!scroll||!btnL||!btnR) return;
+  const STEP = 220;
+  function update(){
+    btnL.classList.toggle('hidden', scroll.scrollLeft < 8);
+    btnR.classList.toggle('hidden', scroll.scrollLeft >= scroll.scrollWidth - scroll.clientWidth - 8);
+  }
+  btnL.addEventListener('click', ()=>{ scroll.scrollBy({left:-STEP, behavior:'smooth'}); });
+  btnR.addEventListener('click', ()=>{ scroll.scrollBy({left: STEP, behavior:'smooth'}); });
+  scroll.addEventListener('scroll', update, {passive:true});
+  window.addEventListener('resize', update);
+  // Run once after clusters render
+  setTimeout(update, 100);
+})();
 </script>
 </body>
 </html>
