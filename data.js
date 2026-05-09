@@ -205,6 +205,92 @@ window.INNOVATION_DATA = [
     "color": "#BA7517",
     "projects": [
       {
+        "name": "AIMS5.0 – Artificial Intelligence in Manufacturing leading to Sustainability and Industry5.0",
+        "org": "Infineon Technologies AG",
+        "subtitle": "KI-gestützte Industrie-5.0-Produktion für resiliente und nachhaltige europäische Wertschöpfung",
+        "beschreibung": "Das europäische Forschungsprojekt AIMS5.0 („Artificial Intelligence in Manufacturing leading to Sustainability and Industry5.0“) entwickelt KI-gestützte Technologien für die nächste Generation nachhaltiger und resilienter Industrieproduktion in Europa. Ziel des Projekts ist es, europäische Wertschöpfungsketten widerstandsfähiger, effizienter und ökologischer zu gestalten und gleichzeitig die digitale Souveränität Europas im industriellen Umfeld zu stärken.\n\nAIMS5.0 adressiert zentrale Herausforderungen moderner Industrieproduktion wie globale Lieferkettenabhängigkeiten, steigende Energie- und Rohstoffkosten sowie den Bedarf an nachhaltigen Produktionsmethoden. Im Fokus steht der Übergang von Industrie 4.0 zu Industrie 5.0, bei dem technologische Innovationen stärker mit menschlicher Zusammenarbeit, Nachhaltigkeit und gesellschaftlicher Resilienz verknüpft werden.\n\nDas Projekt integriert Technologien wie künstliche Intelligenz, Machine Learning, Internet of Things (IoT), semantische Datenmodelle und digitale Plattformen entlang der gesamten industriellen Wertschöpfungskette. Dadurch entstehen intelligente Produktionsumgebungen, die Fertigungsprozesse autonom optimieren, Energieverbrauch reduzieren und Produktionsqualität steigern können. Gleichzeitig sollen Entwicklungszyklen verkürzt und Produktionskosten gesenkt werden.\n\nEin wichtiger Bestandteil von AIMS5.0 ist die Entwicklung KI-gestützter Hardware- und Softwarekomponenten für reale industrielle Anwendungen. Die Lösungen werden in unterschiedlichen Pilotumgebungen getestet – unter anderem in den Bereichen Halbleiterfertigung, Automotive, Elektronikproduktion und industrielle Automatisierung. Ziel ist eine flexible, adaptive und nachhaltige Produktion mit hoher Transparenz und Echtzeitfähigkeit.\n\nDas Konsortium umfasst führende europäische Industrieunternehmen, Forschungszentren und Universitäten aus zahlreichen Ländern. Unter der Koordination von Infineon Technologies arbeiten unter anderem BMW, Philips, NXP, Fraunhofer, AIT, TTTech und mehrere europäische Hochschulen an einer gemeinsamen Industrie-5.0-Plattform.\n\nMit seinem Fokus auf nachhaltige KI-Fabriken und resiliente europäische Produktionsnetzwerke gilt AIMS5.0 als strategisch bedeutendes Projekt für die Zukunft der europäischen Industrie. Die entwickelten Technologien schaffen die Grundlage für energieeffiziente, intelligente und menschenzentrierte Produktionssysteme, die Europas Wettbewerbsfähigkeit langfristig sichern sollen.",
+        "zukunft": "AIMS5.0 legt die Grundlage für europäische KI-Fabriken der nächsten Generation und unterstützt den Übergang von Industrie 4.0 zu Industrie 5.0. Durch intelligente Produktionssysteme, resiliente Lieferketten und nachhaltige Fertigung stärkt das Projekt Europas digitale Souveränität und Wettbewerbsfähigkeit. Die entwickelten Technologien können künftig in zahlreichen Industriebranchen skaliert werden – von Mikroelektronik und Automotive bis hin zu Energie- und Konsumgüterproduktion.",
+        "coordinator": {
+          "name": "Infineon Technologies AG",
+          "url": "https://www.infineon.com/"
+        },
+        "partners": [
+          {
+            "name": "BMW AG",
+            "url": "https://www.bmwgroup.com/"
+          },
+          {
+            "name": "AIT Austrian Institute of Technology",
+            "url": "https://www.ait.ac.at/"
+          },
+          {
+            "name": "Infineon Technologies Austria AG",
+            "url": "https://www.infineon.com/cms/en/about-infineon/locations/austria/"
+          },
+          {
+            "name": "TTTech Computertechnik AG",
+            "url": "https://www.tttech.com/"
+          },
+          {
+            "name": "Virtual Vehicle Research GmbH",
+            "url": "https://www.v2c2.at/"
+          },
+          {
+            "name": "Wirtschaftsuniversität Wien",
+            "url": "https://www.wu.ac.at/"
+          },
+          {
+            "name": "CISC Semiconductor GmbH",
+            "url": "https://www.cisc.at/"
+          },
+          {
+            "name": "KAI Kompetenzzentrum Automobil- und Industrieelektronik GmbH",
+            "url": "https://www.kaikompetenzzentrum.com/"
+          },
+          {
+            "name": "Fraunhofer-Gesellschaft",
+            "url": "https://www.fraunhofer.de/"
+          },
+          {
+            "name": "Technische Universität Dresden",
+            "url": "https://tu-dresden.de/"
+          },
+          {
+            "name": "Philips",
+            "url": "https://www.philips.com/"
+          },
+          {
+            "name": "NXP Semiconductors",
+            "url": "https://www.nxp.com/"
+          },
+          {
+            "name": "Husqvarna AB",
+            "url": "https://www.husqvarna.com/"
+          },
+          {
+            "name": "Eindhoven University of Technology",
+            "url": "https://www.tue.nl/"
+          }
+        ],
+        "quellen": [
+          {
+            "label": "CORDIS – AIMS5.0",
+            "url": "https://cordis.europa.eu/project/id/101112089, AIMS5.0 Official Website|https://aims50.eu/, Infineon Technologies|https://www.infineon.com/, AIT Austrian Institute of Technology|https://www.ait.ac.at/"
+          }
+        ],
+        "image_url": "https://edge-ai-tech.eu/wp-content/uploads/2025/07/Logo-AIMS5.0-scaled.png",
+        "trl": 6,
+        "srl": 8,
+        "axes": [
+          6,
+          8,
+          1,
+          10,
+          10,
+          10
+        ]
+      },
+      {
         "name": "AWARD – All Weather Autonomous Real logistics operations and Demonstrations",
         "org": "EASYMILE",
         "subtitle": "Autonome Allwetter-Logistiksysteme für sichere und resiliente Transportketten",
@@ -420,48 +506,6 @@ window.INNOVATION_DATA = [
           9,
           8,
           9
-        ]
-      },
-      {
-        "name": "Rail4Climate",
-        "org": "ÖBB Infrastruktur AG",
-        "subtitle": "Digitale Bahntransformation für ein resilientes und klimaneutrales österreichisches Schienensystem",
-        "beschreibung": "Rail4Climate ist ein österreichisches Innovationsprojekt zur umfassenden Digitalisierung des Bahnsystems mit dem Ziel, die Bahn als zentrales klimaneutrales Verkehrsmittel der Zukunft zu stärken. Das Projekt adressiert die steigenden Anforderungen an Kapazität, Energieeffizienz und Betriebssicherheit im Schienenverkehr und entwickelt digitale Technologien zur intelligenten Steuerung und Optimierung des gesamten Bahnsystems.\n\nIm Mittelpunkt stehen digitale Zwillinge von Bahninfrastruktur und Fahrzeugen, die Echtzeitdaten aus Sensorik, Betriebssteuerung und Wartungssystemen integrieren. Dadurch können Infrastrukturzustände kontinuierlich überwacht und Wartungsmaßnahmen vorausschauend geplant werden. Ergänzend entwickelt das Projekt KI-gestützte Analysesysteme, die Betriebsstörungen frühzeitig erkennen und automatisierte Entscheidungen zur Netzoptimierung ermöglichen.\n\nRail4Climate untersucht außerdem den Einsatz autonom arbeitender Prüf- und Inspektionsroboter für Gleisanlagen und technische Infrastruktur. Diese Systeme sollen Wartungsprozesse beschleunigen, Risiken reduzieren und die Verfügbarkeit des Bahnnetzes erhöhen. Intelligente Fahrplandatenanalysen und Echtzeitsteuerungen unterstützen zusätzlich eine effizientere Nutzung bestehender Infrastrukturkapazitäten.\n\nDie Pilotanwendungen werden in realen Betriebsumgebungen getestet und dienen als Grundlage für die zukünftige digitale Transformation des österreichischen Bahnsystems. Durch die Kombination von Digitalisierung, künstlicher Intelligenz und automatisierter Betriebsführung trägt das Projekt zur Reduktion von Energieverbrauch und CO₂-Emissionen bei und stärkt gleichzeitig die Resilienz des öffentlichen Verkehrs.\n\nDas Konsortium vereint zentrale Akteure der österreichischen Mobilitäts- und Forschungslandschaft. Unter der Leitung der ÖBB Infrastruktur AG arbeiten AIT, TU Wien und Siemens Mobility Austria an Lösungen für die nächste Generation intelligenter Bahnsysteme. Die Projektergebnisse besitzen großes Potenzial für die Übertragung auf den gesamten mitteleuropäischen Bahnraum und leisten einen wichtigen Beitrag zur europäischen Verkehrswende.",
-        "zukunft": "Rail4Climate schafft die technologische Grundlage für eine vollständig digitalisierte und klimaneutrale Bahn in Österreich. Durch KI-gestützte Wartung, digitale Zwillinge und automatisierte Betriebsprozesse können Kapazitäten erhöht, Ausfälle reduziert und Energieverbräuche optimiert werden. Die entwickelten Technologien besitzen hohes Skalierungspotenzial für den gesamten europäischen Bahnraum und unterstützen die Transformation nachhaltiger Mobilitätssysteme.",
-        "coordinator": {
-          "name": "ÖBB Infrastruktur AG",
-          "url": "https://infrastruktur.oebb.at/"
-        },
-        "partners": [
-          {
-            "name": "AIT Austrian Institute of Technology",
-            "url": "https://www.ait.ac.at/"
-          },
-          {
-            "name": "Technische Universität Wien",
-            "url": "https://www.tuwien.at/"
-          },
-          {
-            "name": "Siemens Mobility Austria",
-            "url": "https://www.mobility.siemens.com/at/de.html"
-          }
-        ],
-        "quellen": [
-          {
-            "label": "ÖBB Infrastruktur",
-            "url": "https://infrastruktur.oebb.at/, Rail4Climate  FTI-Förderprogramm |https://rail4climate.gv.at/, Siemens Mobility Austria|https://www.mobility.siemens.com/at/de.html, FFG – Mobilität der Zukunft|https://www.ffg.at/mobilitaetderzukunft"
-          }
-        ],
-        "image_url": "https://rail4climate.gv.at/wp-content/uploads/sites/5/2026/01/test-teaser.png",
-        "trl": 6,
-        "srl": 7,
-        "axes": [
-          6,
-          7,
-          6,
-          9,
-          10,
-          8
         ]
       },
       {
