@@ -2,7 +2,198 @@ window.INNOVATION_DATA = [
   {
     "name": "Digitale Technologien & KI",
     "color": "#534AB7",
-    "projects": []
+    "projects": [
+      {
+        "name": "AI-Based Structural Health Monitoring (SHM)",
+        "org": "AIT Austrian Institute of Technology GmbH",
+        "subtitle": "KI-gestützte Echtzeitanalyse zur Sicherung kritischer Infrastruktur",
+        "beschreibung": "Einsatz von Deep-Learning-Algorithmen zur Echtzeitanalyse von Vibrations- und Schwingungsdaten an Brücken und Dämmen, um Anomalien vor dem Entstehen physischer Schäden zu identifizieren.",
+        "zukunft": "Durch die vorausschauende Analyse von Strukturdaten wird die Lebensdauer bestehender Infrastruktur verlängert. Dies ist ein entscheidender Beitrag zur Sicherheit und Ressourceneffizienz in wachsenden urbanen Räumen.",
+        "coordinator": {
+          "name": "AIT Digital Resilient Cities",
+          "url": "https://publications.ait.ac.at/de/organisations/digital-resilient-cities/"
+        },
+        "partners": [
+          {
+            "name": "ASFINAG",
+            "url": "https://www.asfinag.at/"
+          },
+          {
+            "name": "TU Graz",
+            "url": "https://www.tugraz.at/"
+          }
+        ],
+        "quellen": [
+          {
+            "label": "AIT Publications - Digital Resilient Cities",
+            "url": "https://publications.ait.ac.at/de/organisations/digital-resilient-cities/"
+          }
+        ],
+        "image_url": "[Link zum Bild]",
+        "trl": 8,
+        "srl": 7,
+        "axes": [
+          8,
+          7,
+          1,
+          9,
+          8,
+          8
+        ]
+      },
+      {
+        "name": "Citizen Engagement & Gamified Urban Planning",
+        "org": "Kreativwirtschaft Austria",
+        "subtitle": "Spielerische Bürgerbeteiligung in der Stadtentwicklung",
+        "beschreibung": "Plattform für digitale Partizipation, die durch spielerische Ansätze und VR/AR-Technologie Bürger in die Gestaltung ihres Lebensraums aktiv einbindet.",
+        "zukunft": "Durch die Demokratisierung von Planungsprozessen mittels Gamification wird die Akzeptanz für technologische Neuerungen massiv erhöht. Es verwandelt Stadtentwicklung in einen gemeinschaftlichen Prozess.",
+        "coordinator": {
+          "name": "Kreativwirtschaft Austria",
+          "url": "https://www.kreativwirtschaft.at/"
+        },
+        "partners": [
+          {
+            "name": "Forschungsstudios",
+            "url": "https://researchstudio.at/"
+          },
+          {
+            "name": "Diverse Architekturbüros",
+            "url": ""
+          }
+        ],
+        "quellen": [
+          {
+            "label": "Portal Kreativwirtschaft Austria",
+            "url": "https://www.kreativwirtschaft.at/"
+          }
+        ],
+        "image_url": "[Link zum Bild]",
+        "trl": 7,
+        "srl": 9,
+        "axes": [
+          7,
+          9,
+          1,
+          8,
+          7,
+          8
+        ]
+      },
+      {
+        "name": "Digital Twin Vienna",
+        "org": "Stadt Wien",
+        "subtitle": "Urban Intelligence Platform für die resiliente Stadtplanung",
+        "beschreibung": "Ein hochpräzises digitales Abbild der Stadt, das statische Geodaten mit Echtzeit-Simulationen verknüpft, um die urbane Infrastruktur effizienter und lebenswerter zu gestalten.",
+        "zukunft": "Der digitale Geozwilling ermöglicht hochkomplexe Klimasimulationen und Verkehrsplanungen. Er dient als Blaupause für moderne Metropolen, um auf Herausforderungen wie Hitzeinseln reagieren zu können.",
+        "coordinator": {
+          "name": "Stadt Wien (ViennaGIS)",
+          "url": "https://www.wien.gv.at/inhalt/viennagis"
+        },
+        "partners": [
+          {
+            "name": "Wien Digital",
+            "url": "https://digitales.wien.gv.at/"
+          },
+          {
+            "name": "ADV Österreich",
+            "url": "https://www.adv.at/"
+          }
+        ],
+        "quellen": [
+          {
+            "label": "ViennaGIS Stadtplan",
+            "url": "https://www.wien.gv.at/inhalt/viennagis, Fachpublikation Digitaler Geozwilling | https://www.adv.at/wp-content/uploads/2021/09/KORDASCH-Sara_LEHNER-Hubert_DigitalergeoZwilling.pdf"
+          }
+        ],
+        "image_url": "[Link zum Bild]",
+        "trl": 9,
+        "srl": 8,
+        "axes": [
+          9,
+          8,
+          1,
+          10,
+          9,
+          7
+        ]
+      },
+      {
+        "name": "Predictive Maintenance for Green Energy Grids",
+        "org": "Austrian Power Grid (APG)",
+        "subtitle": "KI-gestützte Netzstabilität für die Energiewende",
+        "beschreibung": "KI-basierte Analyse von Netzlasten und Anlagenzuständen zur Vermeidung von Blackouts und zur Optimierung der Energieverteilung in Echtzeit.",
+        "zukunft": "Dieses Projekt ist essenziell für die Integration erneuerbarer Energien. Es stabilisiert die Stromversorgung und ermöglicht eine effiziente, vorausschauende Wartung des nationalen Übertragungsnetzes.",
+        "coordinator": {
+          "name": "APG Forschung & Innovation",
+          "url": "https://www.apg.at/ueber-uns/die-apg/forschung-innovation/"
+        },
+        "partners": [
+          {
+            "name": "TU Wien",
+            "url": "https://www.tuwien.at/"
+          },
+          {
+            "name": "Verbund AG",
+            "url": "https://www.verbund.com/"
+          }
+        ],
+        "quellen": [
+          {
+            "label": "APG Innovationsstrategie",
+            "url": "https://www.apg.at/ueber-uns/die-apg/forschung-innovation/"
+          }
+        ],
+        "image_url": "[Link zum Bild]",
+        "trl": 8,
+        "srl": 7,
+        "axes": [
+          8,
+          7,
+          1,
+          9,
+          10,
+          8
+        ]
+      },
+      {
+        "name": "Quantum-Secure Communication",
+        "org": "AIT Austrian Institute of Technology GmbH",
+        "subtitle": "Abhörsichere Vernetzung kritischer Infrastrukturen",
+        "beschreibung": "Entwicklung von Quantenschlüssel-Verteilungssystemen (QKD), um die Kommunikation zwischen Behörden und Energieversorgern absolut abhörsicher zu verschlüsseln.",
+        "zukunft": "Die Quantentechnologie bildet das Fundament für die Sicherheit digitaler Netzwerke gegen zukünftige Cyber-Bedrohungen. Österreich positioniert sich hier als technologischer Schutzpatron für kritische Datenwege.",
+        "coordinator": {
+          "name": "AIT Optical Quantum Technologies",
+          "url": "https://www.ait.ac.at/themen/optical-quantum-technologies"
+        },
+        "partners": [
+          {
+            "name": "Oesterreichische Nationalbank",
+            "url": "https://www.oenb.at/"
+          },
+          {
+            "name": "IQOQI",
+            "url": "https://iqoqi.at/"
+          }
+        ],
+        "quellen": [
+          {
+            "label": "AIT Quantum Technologies Forschung",
+            "url": "https://www.ait.ac.at/themen/optical-quantum-technologies"
+          }
+        ],
+        "image_url": "[Link zum Bild]",
+        "trl": 6,
+        "srl": 5,
+        "axes": [
+          6,
+          5,
+          1,
+          8,
+          6,
+          9
+        ]
+      }
+    ]
   },
   {
     "name": "Gesundheit & Life Sciences",
